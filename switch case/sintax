@@ -1,0 +1,10 @@
+switch(expression)
+{
+    case lebel 1:statement;
+                 break;
+
+    case lebel 2:staement;
+                 break;
+
+    default:staement;
+}
